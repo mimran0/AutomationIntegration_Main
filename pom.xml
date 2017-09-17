@@ -11,6 +11,7 @@
     <modules>
         <module>Youtube</module>
         <module>dailymotion</module>
+        <module>bing</module>
     </modules>
 
     <dependencies>
